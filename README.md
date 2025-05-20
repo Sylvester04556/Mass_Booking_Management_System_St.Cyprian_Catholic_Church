@@ -17,7 +17,7 @@ In many Catholic parishes particularly St.Cyprain Catholic Church, managing Mass
 This mini project seeks to use Python-based tool to manage Mass bookings efficiently.
 
 ## Features
- * Add New Intention: Parish staff can record Mass intentions, including the name, contact info, purpose, and offering amount.
+ * Add New Intention: Parish staff can record Mass intentions, including the name etc.
 
  * Update Existing Intention: Modify any field of a previously booked Mass intention.
 
